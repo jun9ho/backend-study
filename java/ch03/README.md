@@ -1,4 +1,3 @@
-﻿Java study notes
 # Ch3: 상수와 형 변환
 
 ## final 선언
