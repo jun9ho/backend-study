@@ -1,8 +1,5 @@
 package step01_ioarithmetic.p10172;
 
-import java.util.*;
-import java.io.*;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
